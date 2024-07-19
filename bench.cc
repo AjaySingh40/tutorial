@@ -18,7 +18,7 @@
 
 #include <deal.II/matrix_free/fe_evaluation.h>
 #include <deal.II/matrix_free/matrix_free.h>
-#include <deal.II/matrix_free/operators.h>
+#include <deal.II/matrix_with/matrix_evaluation.h>
 
 #include <deal.II/numerics/vector_tools.h>
 
